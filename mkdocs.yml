@@ -1,0 +1,38 @@
+site_name: Resolução 6/2022 - CONSESC/DG/PAR/RE/IFRN
+site_author: Jurandy Soares
+
+theme:
+  name: material
+  language: pt
+  palette:
+    primary: green
+
+nav:
+  - Capítulo I -- Disposição preliminar:
+    - art-1.md
+
+  - Capítulo II -- Das atividades curriculares:
+    - art-2.md
+    - art-3.md
+    - art-4.md
+    - art-5.md
+
+  - Capítulo III -- Das atividades extracurriculares:
+    - art-6.md
+    - art-7.md
+    - art-8.md
+    - art-9.md
+
+  - Capítulo IV -- Das vedações:
+    - art-10.md
+    - art-11.md
+
+  - Capítulo V -- Das notificações e penalidades:
+    - art-12.md
+    - art-13.md
+
+  - Capítulo VI -- Das disposições gerais e final:
+    - art-14.md
+    - art-15.md
+    - art-16.md
+    - art-17.md
