@@ -8,29 +8,36 @@ theme:
     primary: green
 
 nav:
+  - index.md
+  - capitulo-1.md
   - Capítulo I -- Disposição preliminar:
     - art-1.md
 
+  - capitulo-2.md
   - Capítulo II -- Das atividades curriculares:
     - art-2.md
     - art-3.md
     - art-4.md
     - art-5.md
 
+  - capitulo-3.md
   - Capítulo III -- Das atividades extracurriculares:
     - art-6.md
     - art-7.md
     - art-8.md
     - art-9.md
 
+  - capitulo-4.md
   - Capítulo IV -- Das vedações:
     - art-10.md
     - art-11.md
 
+  - capitulo-5.md
   - Capítulo V -- Das notificações e penalidades:
     - art-12.md
     - art-13.md
 
+  - capitulo-6.md
   - Capítulo VI -- Das disposições gerais e final:
     - art-14.md
     - art-15.md
