@@ -7,5 +7,7 @@ devendo, contudo, trajar vestuário adequado, conforme definição no parágrafo
 dos ambientes onde se desenvolvem as atividades acadêmicas.
 
 
+(art-4:paragrafo-unico)=
+
 Parágrafo único. Fica reservada à Diretoria Acadêmica do Campus a autorização do uso de camisa específica para o curso, quando
 for necessário.
