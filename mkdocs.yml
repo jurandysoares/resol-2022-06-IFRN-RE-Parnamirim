@@ -2,7 +2,7 @@ site_name: Resolução 6/2022 - CONSESC/DG/PAR/RE/IFRN
 site_author: Jurandy Soares
 
 theme:
-  name: material
+  name: readthedocs
   language: pt
   palette:
     primary: green
